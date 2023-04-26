@@ -10,5 +10,5 @@ for i in range(len(cogs)):
   cogs[i].setup(Client)
 
 
-Client.run("ODk0ODI4MDIxNTI0MTAzMTY4.YVvriQ.Rae6M5wEwP6-mLn3193T6YEnEpY")
+Client.run("") # put bot token here
 
